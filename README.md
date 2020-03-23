@@ -7,7 +7,7 @@ Description
 
 # How to Download and Run
 
-Download the donwnload folder to your computer and double click the run.bat file. Alternatively you can open up your command prompt and type the command java -jar Sorting.jar or java -jar "path\to\Sorting.jar" .
+Download the download folder to your computer and double click the run.bat file. Alternatively you can open up your command prompt and type the command java -jar Sorting.jar or java -jar "path\to\Sorting.jar" .
 
 # Features
 * Object Oriented Programming
