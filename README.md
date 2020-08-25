@@ -33,7 +33,7 @@ This is a variation of bubble sort. It works the same way except when the end of
 ## Insertion Sort
 Worst Time Space:О(n2)
 Average Time Space:О(n2) 
-This is an alorithim which inserts an element into its proper place in the sorted part of the array. It will move across the array and place each element into its proper place.
+This is an algorithim which inserts an element into its proper place in the sorted part of the array. It will move across the array and place each element into its proper place.
 ## Quick Sort
 Worst Time Space:О(n2) 
 Average Time Space:О(n log n) 
